@@ -65,9 +65,11 @@
 
 ### 🐍 Contribution Graph  
 
-<p align="center">
-  <img src="https://github.com/sandeepchandeliya/sandeepchandeliya/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sandeepchandeliya/sandeepchandeliya/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sandeepchandeliya/sandeepchandeliya/blob/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/sandeepchandeliya/sandeepchandeliya/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
