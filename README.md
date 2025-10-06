@@ -73,8 +73,9 @@
 
 ### 🌍 Connect With Me  
 
-[![LinkedIn](www.linkedin.com/in/sandeep-chandeliya-065931311)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)]([https://your-portfolio-link](https://my-portfolio-nine-sandy-50.vercel.app/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-chandeliya-065931311)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-nine-sandy-50.vercel.app/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/sandeepchandeliya)  
 
 ---
