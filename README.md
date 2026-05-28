@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Sandeep Chandeliya</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | JavaScript Enthusiast | Learning Next.js</h3>
+<h3 align="center">🚀 Full Stack MERN Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=4CAF50&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Learning+Next.js+%F0%9F%9A%80;Always+Learning+New+Things!">
